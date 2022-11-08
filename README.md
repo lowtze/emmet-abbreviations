@@ -13,7 +13,7 @@ Emmet says TO NOT do what I'm doing, but here we are.
 
 ## CSS Test Page
 
-Set up a page with some common elements to test out CSS styling. It ain't pretty but it works.
+Set up a page with some common elements to test out CSS styling. It ain't pretty but it works. (Or you could just use this nice page: https://granneman.com/webdev/coding/htmlcsstestpage)
 
 First: 
 
